@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "863212451581",
+    "firebase_url": "https://inroads2vitapp-38b7a.firebaseio.com",
+    "project_id": "inroads2vitapp-38b7a",
+    "storage_bucket": "inroads2vitapp-38b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863212451581:android:765c4f3ab3814be1",
+        "android_client_info": {
+          "package_name": "com.example.sakshamtulsyan.inroads2vitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863212451581-obcafcg79rdjhnbpmgo0el65kvp2669p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcF8smbClbm-N4lE4AXMYjkjQdIAQ2NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
